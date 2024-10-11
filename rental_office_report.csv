@@ -1,0 +1,14 @@
+Office Details:
+Office ID:1 ZIP: 60604
+[
+Inventory ID: 1, Type: CAR, Vehicles in Inventory: 
+Vehicle ID: 1, Make: Toyota, Model: Camry, Year: 2020, Available: false
+Vehicle ID: 2, Make: Honda, Model: Civic, Year: 2019, Available: true, 
+Inventory ID: 2, Type: SUV, Vehicles in Inventory: 
+Vehicle ID: 3, Make: Ford, Model: Explorer, Year: 2018, Available: false, 
+Inventory ID: 3, Type: TRUCK, Vehicles in Inventory: 
+Vehicle ID: 4, Make: Chevrolet, Model: Silverado, Year: 2017, Available: true]
+Office's Order History: 
+[Name: Snoop Dogg, Vehicle rented: Toyota Camry, Total cost : $6
+, Name: DePaul University., Vehicle rented: Ford Explorer, Total cost : $18
+]
